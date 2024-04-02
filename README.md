@@ -1,6 +1,5 @@
 # ANALOG CLOCK  
-  ### Preview Link: 
-            https://123sheela.github.io/Analog_Clock/
+   **Preview Link:**  https://123sheela.github.io/Analog_Clock/
 ## Overview 
 
 This project aims to create a simple analog clock using HTML, CSS, and JavaScript. 
